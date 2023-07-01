@@ -1,4 +1,4 @@
-#Fri Jun 30 18:34:10 BRT 2023
-base.0=/Users/victor.silva/Documents/GitHub/conta_bancaria/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-path.0=classes.dex
+#Fri Jun 30 20:27:12 GMT-03:00 2023
+base.0=C\:\\Users\\User\\Desktop\\estudo\\controle_gastos\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
+path.0=classes.dex
